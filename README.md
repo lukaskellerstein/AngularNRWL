@@ -1,0 +1,1 @@
+This repo showed howto use NRWL in Angular 6 projects
